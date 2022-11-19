@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Babatunde-Samson-s-workspace-neck7l.us-east-1.xata.sh/db/income-tracker",
+  "codegen": {
+    "output": "util/xata.ts"
+  }
+}
