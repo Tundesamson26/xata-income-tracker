@@ -7,7 +7,7 @@ const Header = ({ totalIncome } : any) => {
     <header>
       <h1 className="text-3xl font-bold text-[#888]">Income Tracker</h1>
       <Image
-        className=" object-cover rounded-xl"
+        className=" object-cover rounded-lg"
         width={80}
         height={1}
         src="https://res.cloudinary.com/beswift/image/upload/v1647849821/samples/cloudinary-icon.png"
